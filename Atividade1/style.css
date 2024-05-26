@@ -1,0 +1,15 @@
+.btn{
+    position: fixed;
+    left: 78vh;
+    margin-top: 2%;
+    height: 40px;
+    font-family: monospace;
+   background-color: rgb(253, 233, 236);
+}
+
+p{
+    font-family: monospace;
+    position: relative;
+    left: 78vh;
+    top: 90px; 
+}
